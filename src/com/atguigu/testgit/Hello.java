@@ -11,5 +11,6 @@ public class Hello {
 		System.out.println("测试Egit同步功能");
 		System.out.println("测试Egit比服务器版本新功能");
 		System.out.println("测试冲突");
+		System.out.println("w测试冲突");
 	}
 }
