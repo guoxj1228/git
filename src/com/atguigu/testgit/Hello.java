@@ -10,5 +10,6 @@ public class Hello {
 		System.out.println("这是第六次修改，从页面的修改 w 6");
 		System.out.println("测试Egit同步功能");
 		System.out.println("测试Egit比服务器版本新功能");
+		System.out.println("w测试冲突");
 	}
 }
